@@ -1,4 +1,4 @@
-import { Heading, Button, Text } from "../../";
+import { Heading, Button, Text } from "../../components";
 import React from "react";
 
 export default function IPhone1415Pro1Row({
