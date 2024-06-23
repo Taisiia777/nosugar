@@ -1,0 +1,167 @@
+2024-06-18 17:37:48,193 ERROR Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-06-18 17:37:48,194 WARNING Sleep for 2.175951 seconds and try again... (tryings = 3, bot id = 7208469362)
+2024-06-18 17:37:50,415 ERROR Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-06-18 17:37:50,415 WARNING Sleep for 2.442694 seconds and try again... (tryings = 4, bot id = 7208469362)
+2024-06-18 17:37:55,902 ERROR Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-06-18 17:37:55,902 WARNING Sleep for 2.982000 seconds and try again... (tryings = 4, bot id = 7208469362)
+2024-06-18 17:37:58,219 WARNING Received SIGINT signal
+2024-06-18 17:37:58,219 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 17:37:58,219 INFO Polling stopped
+2024-06-18 17:38:02,904 INFO Connection established (tryings = 5, bot id = 7208469362)
+2024-06-18 17:38:44,660 INFO Updating or creating dots in the database
+2024-06-18 17:38:44,661 INFO Fetching token from iiko services
+2024-06-18 17:38:44,719 INFO Token fetched successfully
+2024-06-18 17:38:44,968 INFO Start polling
+2024-06-18 17:38:45,013 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 21:53:21,348 INFO Updating or creating dots in the database
+2024-06-18 21:53:21,349 INFO Fetching token from iiko services
+2024-06-18 21:53:21,409 INFO Token fetched successfully
+2024-06-18 21:53:21,661 INFO Start polling
+2024-06-18 21:53:21,707 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 21:53:37,609 INFO Updating or creating dots in the database
+2024-06-18 21:53:37,610 INFO Fetching token from iiko services
+2024-06-18 21:53:37,666 INFO Token fetched successfully
+2024-06-18 21:53:37,916 INFO Start polling
+2024-06-18 21:53:37,962 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 21:54:06,847 INFO Updating or creating dots in the database
+2024-06-18 21:54:06,848 INFO Fetching token from iiko services
+2024-06-18 21:54:06,909 INFO Token fetched successfully
+2024-06-18 21:54:26,150 INFO Updating or creating dots in the database
+2024-06-18 21:54:26,151 INFO Fetching token from iiko services
+2024-06-18 21:54:26,210 INFO Token fetched successfully
+2024-06-18 21:54:26,469 INFO Start polling
+2024-06-18 21:54:26,515 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:35:00,356 INFO Updating or creating dots in the database
+2024-06-18 22:35:00,356 INFO Fetching token from iiko services
+2024-06-18 22:35:00,422 INFO Token fetched successfully
+2024-06-18 22:35:00,671 INFO Start polling
+2024-06-18 22:35:00,717 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:38:58,312 INFO Updating or creating dots in the database
+2024-06-18 22:38:58,313 INFO Fetching token from iiko services
+2024-06-18 22:38:58,371 INFO Token fetched successfully
+2024-06-18 22:38:58,619 INFO Start polling
+2024-06-18 22:38:58,666 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:55:32,916 INFO Updating or creating dots in the database
+2024-06-18 22:55:32,917 INFO Fetching token from iiko services
+2024-06-18 22:55:32,972 INFO Token fetched successfully
+2024-06-18 22:55:33,213 INFO Start polling
+2024-06-18 22:55:33,258 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:57:15,694 WARNING Received SIGTERM signal
+2024-06-18 22:57:15,696 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:57:15,696 INFO Polling stopped
+2024-06-18 22:57:34,211 INFO Updating or creating dots in the database
+2024-06-18 22:57:34,211 INFO Fetching token from iiko services
+2024-06-18 22:57:34,270 INFO Token fetched successfully
+2024-06-18 22:57:34,550 INFO Start polling
+2024-06-18 22:57:34,600 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:58:01,928 WARNING Received SIGINT signal
+2024-06-18 22:58:01,929 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 22:58:01,930 INFO Polling stopped
+2024-06-18 23:05:43,298 INFO Updating or creating dots in the database
+2024-06-18 23:05:43,298 INFO Fetching token from iiko services
+2024-06-18 23:05:43,356 INFO Token fetched successfully
+2024-06-18 23:05:43,607 INFO Start polling
+2024-06-18 23:05:43,652 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:06:15,124 WARNING Received SIGINT signal
+2024-06-18 23:06:15,124 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:06:15,125 INFO Polling stopped
+2024-06-18 23:06:32,991 INFO Updating or creating dots in the database
+2024-06-18 23:06:32,991 INFO Fetching token from iiko services
+2024-06-18 23:06:33,050 INFO Token fetched successfully
+2024-06-18 23:06:33,297 INFO Start polling
+2024-06-18 23:06:33,342 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:12:07,341 WARNING Received SIGINT signal
+2024-06-18 23:12:07,342 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:12:07,342 INFO Polling stopped
+2024-06-18 23:13:08,690 INFO Updating or creating dots in the database
+2024-06-18 23:13:08,690 INFO Fetching token from iiko services
+2024-06-18 23:13:08,748 INFO Token fetched successfully
+2024-06-18 23:13:09,003 INFO Start polling
+2024-06-18 23:13:09,047 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:15:33,489 WARNING Received SIGINT signal
+2024-06-18 23:15:33,490 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:15:33,490 INFO Polling stopped
+2024-06-18 23:19:24,808 INFO Updating or creating dots in the database
+2024-06-18 23:19:24,808 INFO Fetching token from iiko services
+2024-06-18 23:19:24,872 INFO Token fetched successfully
+2024-06-18 23:19:25,182 INFO Start polling
+2024-06-18 23:19:25,228 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:20:36,371 INFO Update id=572488770 is not handled. Duration 8 ms by bot id=7208469362
+2024-06-18 23:20:36,371 ERROR Cause exception while process update id=572488770 by bot id=7208469362
+InterfaceError: Error binding parameter 1 - probably unsupported type.
+Traceback (most recent call last):
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/fsm/middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/root/venvs/iikoTeleBot/venv/lib64/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/root/iikoTeleBot/handlers.py", line 49, in command_start
+    db.set_wait_confirm(user[0], False)
+  File "/root/iikoTeleBot/db.py", line 83, in set_wait_confirm
+    self.cur.execute("UPDATE `users` SET `wait_confirm` = ? WHERE `id` = ?", (wait_confirm, id))
+sqlite3.InterfaceError: Error binding parameter 1 - probably unsupported type.
+2024-06-18 23:20:50,826 INFO Update id=572488771 is handled. Duration 165 ms by bot id=7208469362
+2024-06-18 23:20:59,554 INFO Update id=572488772 is handled. Duration 211 ms by bot id=7208469362
+2024-06-18 23:21:23,205 INFO Update id=572488773 is handled. Duration 205 ms by bot id=7208469362
+2024-06-18 23:22:43,473 WARNING Received SIGINT signal
+2024-06-18 23:22:43,475 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:22:43,475 INFO Polling stopped
+2024-06-18 23:22:50,419 INFO Updating or creating dots in the database
+2024-06-18 23:22:50,420 INFO Fetching token from iiko services
+2024-06-18 23:22:50,491 INFO Token fetched successfully
+2024-06-18 23:22:50,747 INFO Start polling
+2024-06-18 23:22:50,796 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:23:18,898 INFO Update id=572488774 is handled. Duration 179 ms by bot id=7208469362
+2024-06-18 23:23:20,823 INFO Update id=572488775 is handled. Duration 65 ms by bot id=7208469362
+2024-06-18 23:23:28,779 INFO Update id=572488776 is handled. Duration 199 ms by bot id=7208469362
+2024-06-18 23:24:50,046 INFO Update id=572488777 is handled. Duration 267 ms by bot id=7208469362
+2024-06-18 23:26:06,705 WARNING Received SIGINT signal
+2024-06-18 23:26:06,706 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:26:06,706 INFO Polling stopped
+2024-06-18 23:27:23,514 INFO Updating or creating dots in the database
+2024-06-18 23:27:23,514 INFO Fetching token from iiko services
+2024-06-18 23:27:23,573 INFO Token fetched successfully
+2024-06-18 23:27:23,828 INFO Start polling
+2024-06-18 23:27:23,873 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:27:46,998 WARNING Received SIGINT signal
+2024-06-18 23:27:46,999 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:27:47,000 INFO Polling stopped
+2024-06-18 23:28:18,535 INFO Updating or creating dots in the database
+2024-06-18 23:28:18,535 INFO Fetching token from iiko services
+2024-06-18 23:28:18,595 INFO Token fetched successfully
+2024-06-18 23:28:18,837 INFO Start polling
+2024-06-18 23:28:18,904 INFO Run polling for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:28:28,794 INFO Update id=572488781 is handled. Duration 164 ms by bot id=7208469362
+2024-06-18 23:28:35,041 INFO Update id=572488782 is handled. Duration 68 ms by bot id=7208469362
+2024-06-18 23:28:39,882 INFO Update id=572488783 is handled. Duration 179 ms by bot id=7208469362
+2024-06-18 23:28:57,095 INFO Update id=572488784 is handled. Duration 314 ms by bot id=7208469362
+2024-06-18 23:30:01,942 WARNING Received SIGINT signal
+2024-06-18 23:30:01,942 INFO Polling stopped for bot @NosugarTest_bot id=7208469362 - 'NosugarBot'
+2024-06-18 23:30:01,943 INFO Polling stopped
